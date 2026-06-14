@@ -1,7 +1,6 @@
-tensorflow
-pandas
+tensorflow==2.19.0
 streamlit
-pandas 
+numpy
+pandas
 matplotlib
-numpy 
-seaborn
+scikit-learn
