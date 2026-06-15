@@ -1,6 +1,7 @@
-streamlit==1.45.1
-pandas==2.3.0
-transformers==4.53.0
-torch==2.7.1
-accelerate
+streamlit
+pandas
+matplotlib
+transformers
+torch
 sentencepiece
+protobuf
