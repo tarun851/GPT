@@ -3,5 +3,3 @@ pandas
 matplotlib
 transformers
 torch
-sentencepiece
-protobuf
